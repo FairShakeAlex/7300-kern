@@ -8,3 +8,5 @@ Please comment on all kinds of files.  Currently we are looking for all controll
 If while searching you find something relevant, please comment your thoughts by marking // on the same line of code followed by your comment.
 
 Lets make this device awesome!
+
+Feel free to test updates here.
